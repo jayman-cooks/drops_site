@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    color: red;
+}
+h2 {
+	color: Maroon;
+	border-style: solid;
+	border-color: DogerBlue;
+}
+h3 {
+	color: red;
+	border-style: solid;
+	border-color: DogerBlue;
+	background-color: DarkSalmon;
+	font-family: Cursive;
+}
+
+h1 {
+	text-shadow: 2px 2px blue;
+}
